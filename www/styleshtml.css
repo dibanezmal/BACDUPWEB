@@ -1,0 +1,58 @@
+body 
+{
+    background-color:#69CBB5;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 50px;
+    font-family: helvetica, sans-serif;
+}
+
+h1
+{
+    background: #69CBB5;
+    width: 100%;
+    color: #1B826B;
+    height: 35px;
+    font-family: helvetica, sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: left;
+}
+
+p
+{
+    font-family: helvetica, sans-serif;
+	padding-left: 50px;
+}
+
+table
+{
+    border: 5px solid #1B826B;
+    border-radius: 25px;
+    padding: 10;
+    width: 30%;
+    font-family: helvetica, sans-serif;
+}
+
+td
+{
+    padding: 8;
+    font-weight: bold;
+    font-size: 15pt;
+    text-align: left;
+}
+
+th
+{
+    padding: 30;
+    font-weight: bold;
+    font-size: 18pt;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+input
+{
+    width:200px;
+}
+

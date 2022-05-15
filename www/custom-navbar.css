@@ -1,0 +1,11 @@
+.navbar1 .navbar{ background-color: aquamarine;}
+
+.navbar1 .navbar-default .navbar-brand{color: black;}
+
+.navbar1 .tab-panel{ background-color: aquamarine; color: blue}
+
+.navbar1 .navbar-nav li a:hover, .navbar1 .navbar-nav > .active > a {
+color: black !important;
+background-color:white !important;
+background-image: cyan !important;
+}

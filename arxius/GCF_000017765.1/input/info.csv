@@ -1,0 +1,11 @@
+,GCF_000017765.1
+folder,/home/jfsanchez/git_repos/BacDup/developer/test/db_folder/refseq/bacteria/GCF_000017765.1
+genus,Escherichia
+species,Escherichia coli HS
+taxonomy,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia
+genome,
+annot_file,/home/jfsanchez/git_repos/BacDup/developer/test/db_folder/refseq/bacteria/GCF_000017765.1/GCF_000017765.1_ASM1776v1_genomic.gbff
+format_annot_file,gbk
+proteins,
+plasmids_number,0
+plasmids_ID,
