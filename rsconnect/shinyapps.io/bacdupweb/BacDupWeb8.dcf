@@ -1,0 +1,14 @@
+name: BacDupWeb8
+title: BacDupWeb8
+username:
+account: bacdupweb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6304566
+bundleId: 5908431
+url: https://bacdupweb.shinyapps.io/BacDupWeb8/
+when: 1652636076.70939
+lastSyncTime: 1652636076.70939
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: header_bdw.jpg|arxius
