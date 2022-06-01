@@ -39,3 +39,8 @@ You can modify all the parameters on the left side of the app and cehck how the 
 
 You can read or download the pdf memory of the TFM in the doc in folder memory.
 
+
+## ALL THE DATA IN THIS REPOSITORY
+
+images of memory of TFM
+
