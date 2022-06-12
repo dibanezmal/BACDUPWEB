@@ -39,11 +39,12 @@ In the top of the app we can see thee original data and the filtered data.
 
 You can see how table or circos change in real time depending if, for example, we include pseudogenes, number of duplicates, or the strand.
 
+Another option of the bacdupweb app is an orange button on the top right side of the screen where you can link to a Genbank complete information.
+
+
 ## THE TFM DOC OF BACDUPWEB
 
 You can read or download the pdf memory of the TFM in the BACDUPWEB/TFM_PDF/ folder.
-
-
 
 ## ALL THE DATA IN THIS REPOSITORY
 
