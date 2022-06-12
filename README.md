@@ -47,5 +47,5 @@ You can read or download the pdf memory of the TFM in the doc in folder memory.
 
 ## ALL THE DATA IN THIS REPOSITORY
 
-images of memory of TFM
+In the main folder BACDUPWEB/ you will find the App.R file that contains BacDupWeb code. Al the code is in this file except the ext_functions.R code of external libraries that includes the Biocircos Plot function. The other files requiered are the images header_adn.jpg.
 
