@@ -41,7 +41,7 @@ You can see how table or circos change in real time depending if, for example, w
 
 ## THE TFM DOC OF BACDUPWEB
 
-You can read or download the pdf memory of the TFM in the doc in folder memory.
+You can read or download the pdf memory of the TFM in the BACDUPWEB/TFM_PDF/ folder.
 
 
 
